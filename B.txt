@@ -1,0 +1,1 @@
+git restore --staged will only unstage the file, not discard your changes. If you want to discard the changes in the working directory entirely, you would use git restore <file> without the --staged flag. 
